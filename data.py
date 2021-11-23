@@ -1,3 +1,7 @@
+import numpy
+from tensorflow.keras.utils import to_categorical
+
+
 print("Enter path to data file:")
 filename = input()
 
