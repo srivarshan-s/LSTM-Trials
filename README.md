@@ -1,7 +1,11 @@
 # LSTM-Trials
+
+### INFO
 This project shows the usage of LSTM in two different activities:
 1. Time series prediction
 2. Text generation
+The 1st activity is done in the time-series-prediction.ipynb file.
+The 2nd activity is preformed in two ways: Python notebook and Python script.
 
 
 ### TODO
