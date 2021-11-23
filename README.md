@@ -1,7 +1,7 @@
 # LSTM-Trials
 This project shows the usage of LSTM in two different activities:
-a) Time series prediction
-b) Text generation
+1. Time series prediction
+2. Text generation
 
 
 ### TODO
